@@ -1,3 +1,3 @@
 console.log("ka")
 
-console.log("aru")
+console.log("aru2")
